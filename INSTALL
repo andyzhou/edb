@@ -1,0 +1,4 @@
+edit src/edb.app;
+make;
+erl;
+1>edb:start();
