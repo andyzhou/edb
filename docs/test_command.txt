@@ -1,0 +1,49 @@
+edb:get("select * from documents limit 2").
+
+edb:exec("insert into documents(group_id, group_id2, date_added, title, content) values(1, 2, now(), 'hi', 'aaa')").
+
+
+<xml><cmd>get</cmd><sql>select * from documents limit 2</sql></xml>
+<xml><cmd>exec</cmd><sql>insert into documents(group_id, group_id2, date_added, title, content) values(1, 2, now(), 'hi', 'aaa')</sql></xml>
+
+<xml><cmd>exec</cmd><sql>delete from documents where id = 1</sql></xml>
+
+
+返回结果集XML格式：
+<?xml version="1.0" encoding="utf-8"?>
+<xml>
+<ret>1/0</ret>
+<cols>xx,xxx,xxx</cols>
+<rows>1111</rows>
+<reclist>
+<rec>
+ <xxx>
+ aaa
+ </xxx>
+</rec>
+</reclist>
+</xml>
+
+
+不同主机两个节点无法通讯问题：
+
+需要在/etc/sysconfig/iptables配置中打开4369端口
+-A RH-Firewall-1-INPUT -p udp -m udp --dport 4369 -j ACCEPT
+-A RH-Firewall-1-INPUT -p tcp -m tcp --dport 4369 -j ACCEPT
+-A RH-Firewall-1-INPUT -p udp -m udp --dport 4396 -j ACCEPT
+-A RH-Firewall-1-INPUT -p tcp -m tcp --dport 4396 -j ACCEPT
+
+重启防火墙
+/etc/init.d/iptables restart
+
+
+启动单个erl节点方法：
+
+erl -name a@dev1.izhuozhuo.com -setcookie test -kernel inet_dist_listen_min 4396 inet_dist_listen_max 4396
+erl -name b@dev2.izhuozhuo.com -setcookie test -kernel inet_dist_listen_min 4396 inet_dist_listen_max 4396
+
+
+rpc:call(b@dev2.izhuozhuo.com, edb, get, ["select * from documents limit 2"]).
+
+
+erl -pa ./edb/ebin -name -noshell -noinput -s edb start

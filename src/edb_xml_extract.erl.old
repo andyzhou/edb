@@ -1,0 +1,46 @@
+%%edb socket reply xml data extract
+%%
+
+-module(edb_xml_extract).
+-author("Andy Chow <diudiu8848@gmail.com>").
+-vsn(0.1).
+-include_lib("xmerl/include/xmerl.hrl").
+
+-export([extarct/1]).
+
+
+%%-spec extract(term) -> list
+extract(XmlString) ->
+    % parses XML string
+    %{R,_} = xmerl_scan:file(FName),
+    {R, _} = xmerl_scan:string(XmlString),
+    
+    % extract episode titles, publication dates and MP3 URLs
+    L = lists:reverse(extract(R, [])),
+    
+    % print channel title and data for first two episodes
+    %io:format(">> ~p~n", [element(1,lists:split(3,L))]),
+    io:format("~n~p~n", [L]),
+    L.
+
+% handle 'xmlElement' tags
+extract(R, L) when is_record(R, xmlElement) ->
+    Name = R#xmlElement.name,
+    io:format("~nName:~p~n", [Name]);
+
+extract(#xmlText{parents=[{title,_},{channel,2},_], value=V}, L) ->
+    [{channel, V}|L]; % extract channel/audiocast title
+
+extract(#xmlText{parents=[{title,_},{item,_},_,_], value=V}, L) ->
+    [{title, V}|L]; % extract episode title
+
+extract(#xmlText{parents=[{link,_},{item,_},_,_], value=V}, L) ->
+    [{link, V}|L]; % extract episode link
+
+extract(#xmlText{parents=[{pubDate,_},{item,_},_,_], value=V}, L) ->
+    [{pubDate, V}|L]; % extract episode publication date ('pubDate' tag)
+
+extract(#xmlText{parents=[{'dc:date',_},{item,_},_,_], value=V}, L) ->
+    [{pubDate, V}|L]; % extract episode publication date ('dc:date' tag)
+
+extract(#xmlText{}, L) -> L.  % ignore any other text data

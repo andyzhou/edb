@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+    xmlns:admin="http://webns.net/mvcb/"
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/">
+
+    <channel>
+    
+    <title>Elektrischer Reporter &#45; Phase II</title>
+    <link>http://www.elektrischer-reporter.de/</link>
+    <image>
+        <url>http://www.elektrischer-reporter.de/_template/Logo_170.jpg</url>
+        <title>Elektrischer Reporter</title>
+        <link>http://www.elektrischer-reporter.de/</link>
+     </image>
+    <description>Menschen, Netz, Bewegtbildfolgen</description> 
+    <dc:language>de</dc:language>
+    <dc:creator>mario.sixtus@blinkenlichten.com</dc:creator>
+    <dc:rights>Copyright 2010</dc:rights>
+    <dc:date>2010-03-19T04:00:01+00:00</dc:date>
+
+    <item>
+      <title>Augmented Reality: Ich sehe was, was du nicht siehst</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/208/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/208/</guid>
+      <description>Ende des 20&#45;ten Jahrhunderts dachte man, die Realität verschwände irgendwann im Netz. Falsch: Das Netz integriert sich in die physische Welt. Mittels Augmented&#45;Reality&#45;Anwendungen ist es möglich, unsere Welt mit Informationen aus dem Internet anzureichern. Die Wirklichkeit erhält so eine zweite Ebene aus Informationen. Moderne Mobiltelefonen, ausgerüstet mit GPS, Kamera, Kompass und einem Augmented&#45;Reality&#45;Browser, sehen wo wir uns aufhalten und zeigen uns dazu passende Informationen an, beispielsweise die Geschichte eines Denkmals. Aber auch Angaben zu Personen aus sozialen Netzwerken oder Werbung lassen sich einblenden. 
+
+
+Noch müssen wir uns dazu unser Telefon vor die Nase halten, doch in Zukunft könnten diese so genannten AR&#45;Anwendungen auch in einer speziellen Brille laufen. Digitale und reale Informationen würden dann in unserem Sichtfeld zu einer Einheit verschmelzen. Schon prophezeien Experten, AR könnte die Art und Weise, wie wir uns in und über die Welt bewegen, grundlegend verändern. Denn schließlich beeinflusst das was wir sehen und über die Welt wissen, maßgeblich unser Verhalten. 
+
+
+In eigener Sache: Das war der vorerst letzte Elektrische Reporter in Form eines 10&#45;minütigen Magazins. Es wird in jedem Falle weiter gehen mit der Berichterstattung aus Digitalien, in welcher Form genau, das skizzieren und beratschlagen wir gerade. [Mehr zum Thema:  hier.] Tragen Sie sich einfach im Menü rechts in die Mailing&#45;Liste ein oder schnappen Sie sich einen der RSS&#45;Feeds um über den Neustart informiert zu werden. Bis dahin: Bleiben Sie uns gewogen!
+
+
+Mitwirkende: Claire Boonstra, Marc Maurer, Ulrich Bockholt, Aaron Koblin, Julian Oliver, Bruce Sterling, Philip Lamb; Autor: Julius Endert; Kamera: Dominic Kennedy, Iris Jungels, Andreas Proß; Schnitt: Dominic Kennedy, Arne Bönninghof; Sprecher: Petra Bröcker, Torsten Altenhöner, Nadine Schaub; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Serphonic, Cyril Pereira, Gregoire Lourme, Yob Kulcha, Re&#45;Lab; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2010 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2010-03-19T04:00:01+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/024/ELR_024.mp3" length="10197920" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Digitale Identität: Das Ich im Netz</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/205/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/205/</guid>
+      <description>In den 90er Jahren träumten die Menschen noch von einem zweiten Leben im Cyberspace, von einem neuen, digitalen Universum, in dem man sich jeden Tag neu erfinden und wo man sein Aussehen, Namen und sogar das Geschlecht jederzeit wechseln konnte. In Chat&#45;Rooms und Foren traten die Teilnehmer unter immer neuen Pseudonymen und Nicknames auf und experimentierten mit ihrer Identität, ohne wirklich etwas von sich preiszugeben.
+
+
+Heute hat sich der Umgang mit dem Ich im Netz gewandelt: Der moderne Web&#45;Bewohner will identifiziert und gefunden werden, er will sichtbare Spuren hinterlassen &#45; und er beginnt, sein Profil aktiv zu managen: Er lädt seine Filme auf Youtube hoch, seine Fotos auf Flickr, knüpft Geschäftskontakte auf Xing, verwaltet seine Lesezeichen auf Mister Wong, bleibt mit Studienfreunden über Facebook in Verbindung und sondert permanent Statusmeldungen auf Twitter ab &#45; und all das meist unter seinem echten Namen. Wird unser Erscheinen im Web zu einem festen Bestandteil des Ichs, und welche Folgen hat das für unser Leben? Diese Fragen untersucht der Elektrische Reporter in einer neuen Folge. 
+
+
+Mitwirkende: Danah Boyd, Cory Doctorow, Geert Lovink, Randi Zuckerberg, David Kirkpatrick, David Gelernter; Autor: Mario Sixtus; Mitarbeit: Julius Endert; Kamera: Dominic Kennedy, Iris Jungels, Andreas Proß; Schnitt: Dominic Kennedy, Stefan Jähner; Sprecher: Petra Bröcker, Torsten Altenhöner, Nadine Schaub; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Serphonic, Silence, Les Garcons Jouffleus, DJ Answer, Ehma; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2010 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2010-03-05T04:00:01+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/023/ELR_023.mp3" length="9728288" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Fabbing: Ich drucke mir meine Welt</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/202/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/202/</guid>
+      <description>Der Makerbot ist die kleinste und billigste Fabrik der Welt. Mit einem Baukasten, der nur wenige hundert Dollar kostet, kann sich jeder diesen so genannten Digital Fabricator basteln und ohne große Vorkenntnisse beliebige Objekte herstellen. Plötzlich unterliegen reale Gegenstände den selben Gesetzen wie digitale Güter: Droht den Herstellern von Gebrauchsgegenständen und Ersatzteilen das gleiche Schicksal wie der Musikindustrie? Schon bald könnten massentaugliche 3D&#45;Drucker analog zum Papierdrucker neben jedem Schreibtisch stehen. Die Do&#45;it&#45;youself&#45;Fabriken sind angeschlossen an Online&#45;Communities wie dem Thingiverse, in denen Baupläne getauscht, diskutiert und verbreitet werden.
+
+
+Mitwirkende: Bre Pettis, Philipp Tiefenbacher, Andreas Neef, Ronen Kadushin, Janne Kyttänen; Autoren: Tobias Moorstedt, Mario Sixtus; Kamera: Julius Endert, Andreas Proß; Schnitt: Dominic Kennedy, Arne Bönninghoff; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Lego, Tradmark, Serphonic, Miguel Herrero, Ehma; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2010 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2010-02-19T04:00:07+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/022/ELR_022.mp3" length="9018656" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Real Time Web: Alles im Jetzt</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/200/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/200/</guid>
+      <description>Die Aufmerksamkeit im Web bewegt sich fort von den statischen Webseiten und hin zu einem dynamischen und unaufhörlich fließenden Nachrichten&#45; und Ereignisstrom, den die Nutzer selbst über Twitter oder ihre Facebook&#45;Statusmeldungen erzeugen: Gedanken, Ideen, Emotionen, Nachrichten, Bilder und Videos &#45; alles landet im Augenblick des Entstehens im neuen Echtzeitweb.
+
+
+Neue Debatten entstehen in null&#45;komm&#45;nichts und Trends werden offenbar. Ein Vielzahl neuer Anwendungen nutzt die so entstehenden Inhalte als eigenen Rohstoff, den sie filtern, auswerten und damit beherrschbar machen. Den Medien dagegen bleibt selbst kaum noch Zeit auf das Geschehen in der Welt zu reagieren, beim Kampf um die Nachrichtenhoheit haben sie einen weiteren Konkurrenten: Den twitternden Nutzer am Ort des Geschehen. Kritiker sehen als Ergebnis dieser Beschleunigung am Ende den totalen Stillstand, weil die Nutzer schlicht überfordert werden. Der Elektrische Reporter begibt sich hinein ins Realtime Web und geht den neuen Phänomenen dort auf den Grund.
+
+
+Mitwirkende: Peter Kruse, Jack Dorsey, Hartmut Rosa, Jeff Pulver, Nick Halstead, Iain Dodsworth; Autor: Julius Endert; Kamera: Julius Endert, Dominic Kennedy; Schnitt: Dominic Kennedy, Stefan Jaehner; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Ehma, Matthew Tyas, Alexander Blue, Serphonic, Olga Scotland, Walter Well, Oliver Rouits, Real Rice; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2010 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2010-02-05T04:29:40+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/021/ELR_021.mp3" length="10607264" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Gesperrt, gefiltert, abgeklemmt: Das unfreie Netz</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/198/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/198/</guid>
+      <description>Die Tage des freien Surfens im Internet könnten bald vorüber sein. Länder wie China oder Iran überwachen bereits heute schon jeden Klick ihrer Bürger und stellen Vorschriften auf, welche Seiten diese aufrufen dürfen und welche nicht. Aber auch in Europa ist die Bewegungsfreiheit im Web in Gefahr. In Frankreich können mittlerweile Nutzer mit einem Surfverbot bestraft werden, wenn sie dreimal beim illegalen Musiktausch erwischt werden. 
+
+
+In Deutschland sollten durch das so genannte Zugangserschwerungsgesetz virtuelle Stopp&#45;Schilder vor kinderpornographischen Inhalte errichtet werden. Auch wenn dieses Gesetz vorläufig auf Eis liegt: Kritiker dieser Regelung befürchten, dass es nur noch eine Frage der Zeit ist, bis andere unliebige Inhalte wie Computer&#45; oder Glücksspiele zensiert werden. Derweil tagen die hinter verschlossenen Türen die führenden Wirtschaftsnationen zum Thema &#8220;geistiges Eigentum&#8221; &#45; auf ihrer Tagesordnung stehen auch Netzsperren bei Urheberrechtsverstößen. Der Elektrische Reporter über Zensurmaßnahmen und ihre Folgen. 
+
+
+Mitwirkende: Farnaz Seifi, Thomas Birkner, Franziska Heine, Oliver Süme, Thomas Strobl, Matthias Bäcker; Autoren: Stephan Ebmeyer, Mario Sixtus; Kamera: Julius Endert, Iris Jungels, Andreas Proß; Schnitt: Dominic Kennedy, Stefan Jaehner; Sprecher: Petra Bröcker, Nadine Schaub, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Miguel Herrero, Silence Serphonic, Real Rice, Mathew Tyas, Moonove; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2010 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2010-01-22T04:00:33+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/020/ELR_020.mp3" length="9972512" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Erwachsenenunterhaltung: Nichts Neues im Nacktprogramm?</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/195/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/195/</guid>
+      <description>Pornografie galt lange Zeit als Wegbereiter für neue Technologien. Im Zeitalter des Mitmach&#45;Webs sieht kommerzielle Online&#45;Erotik jedoch überraschend alt aus. Auf Tauschbörsen und Amateur&#45;Nacktbilder reagiert die Branche mit Anwälten und Abmahnung. Gleichzeitig hat das Netz Pornographie demokratisiert: Heimfilme werden über Youtube&#45;ähnliche Plattformen verbreitet, und eine neue Generation von Indie&#45;Pornografen sucht über Twitter den direkten Draht zum Publikum. Ist das die sexuelle Befreiung 2.0, und was ist dran an der Geschichte vom Technologie&#45;Treiber Porno? Der Elektrische Reporter untersucht das Verhältnis von Erwachsenenunterhaltung und Internet.
+
+
+Mitwirkende: Gram Ponante, Madison Young, Udo Vetter, Kyle Machulis, Tina Lorenz, Thomas Roche; Autor: Janko Röttgers; Mitarbeit: Torsten Dewi; Kamera: Eddie Codel, Mathew Williams, Julius Endert; Schnitt: Dominic Kennedy, Anne Lucht, Stefan Jaehner; Sprecher: Petra Bröcker, Nadine Schaub, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Walter Well, Likantropika, GeradorZero, Matthew Tyas, Miguel Prod; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2010 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2010-01-08T04:00:28+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/019/ELR_019.mp3" length="10396064" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Digitale Entmündigung: Was Dir gehört, gehört Dir nicht</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/180/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/180/</guid>
+      <description>Für Apples iPhone gibt es Unmengen nützlicher Zusatzprogramme, geschrieben von Profi&#45; und Hobby&#45;Programmierern in aller Welt. Aber welche die Kunden letztlich auf ihrem Telefon installieren dürfen, entscheiden nicht sie, sondern Apple. Passt dem Hersteller ein Programm nicht, bekommt es keine Zulassung fürs iPhone. „Für die Sicherheit der Kunden&#8221;, argumentiert Apple. „Zur Sicherung von Apples Geschäftsinteressen&#8221;, meinen Kritiker, denen solche geschlossenen Systeme ein Dorn im Auge sind. 
+
+
+Das iPhone ist längst nicht das einzige digitale Gerät, bei dem der Hersteller sich Kontrollfunktionen einräumt &#45; auch nach dem Verkauf, auch aus der Ferne. Besitzer von Amazons E&#45;Book&#45;Lesegerät &#8220;Kindle&#8221; erlebten, wie ihnen die Firma ein elektronisches Buch aus dem Speicher löschte, obwohl sie es ganz legal erworben hatten. Die Nutzer glauben also nur, sie hätten die komplette Verfügungsgewalt über ihre Geräte oder  den den darauf laufenden Programmen und gespeicherten Inhalten. In Wirklichkeit bestimmen die Hersteller, was sie damit machen dürfen und was nicht. 
+
+
+Kritiker warnen deshalb vor einer digitalen Entmündigung der Verbraucher. Und manche befürchten das verheerende Ende der kreativen Computer&#45;Tüftel&#45;Kultur, wenn Basteleien nur noch mit dem Segen des Herstellers möglich sind.
+
+
+Neue Folgen des Elektrischen Reporters gibt es wieder ab dem 08.01.2010. Das El&#45;Rep&#45;Team wünscht allerseits schöne Feiertage!
+
+
+Mitwirkende: Rüdiger Weis, Ed Felten, Oliver Kretzschmar, Jon Johansen, Markus Breuer; Autoren: Fiete Stegers, Mario Sixtus; Mitarbeit: Janko Röttgers; Kamera: Iris Jungels, Eddie Codel, Julius Endert; Schnitt: Dominic Kennedy, Arne Bönninghoff; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Miguel Herrero, Walter Well, Likantropika,GeradorZero, DJ Answer; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-11-13T04:00:03+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/018/ELR_018.mp3" length="10230176" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>P2P&#45;Kredite: Mit Geld beginnt die Freundschaft</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/179/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/179/</guid>
+      <description>Wer einen Kredit braucht, geht zur Bank, fragt einen Freund oder &#45; wendet sich an andere Nutzer im Internet. Online&#45;Plattformen für so genannte P2P&#45;Kredite wollen sich als Alternative zum Bankkredit etablieren. Wie eine Mischung aus Ebay und Facebook organisieren sie einen Marktplatz für Geld, auf dem Kreditwünsche und Anlagegelder &#45; von &#8220;Person to Person&#8221; (P2P) &#45; zusammengeführt werden.
+
+
+Neben harten Bonitätskriterien und dem Zusammenspiel von Angebot und Nachfrage, bestimmen auch weiche Faktoren wie persönliche Profile oder die Beschreibung der geplanten Kreditverwendung den Zinssatz. Der Elektrische Reporter erklärt, wie die Sache mit dem geliehenes Geld aus dem Web funktioniert und untersucht, ob Anbieter wie Smava, Prosper oder Zopa den Banken wirklich gefährlich werden können.
+
+
+Mitwirkende: Alexander Artopé, Chris Larsen, Claus Lehmann, Bernd Skiera, Jörg Schwieder, Arpita Gosh; Autoren: Julius Endert, Mario Sixtus; Mitarbeit: Janko Röttgers; Kamera: Iris Jungels, Eddie Codel; Schnitt: Dominic Kennedy, Arne Bönninghoff; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Iris Jungels, Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Ehma, Serphonic, Nerious; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-10-30T04:00:39+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/017/ELR_017.mp3" length="10516640" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Zukunft des Journalismus: Die Selbermacher</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/175/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/175/</guid>
+      <description>Früher war die Berufsdefinition einfach: Wer für eine Zeitung schrieb &#45; egal ob Kinokritiken oder politische Kommentare &#45; war ein Journalist. Kinokritiken und politische Kommentare werden im 21. Jahrhundert jedoch auch zunehmend von Amateuren publiziert, die nicht auf der Gehaltsliste der Medienhäuser stehen. Nachrichten und persönlich relevante Informationen verbreiten sich blitzschnell über soziale Netzwerke und Feeds. Das &#8220;klassische&#8221; Nachrichten&#45;Portal wird immer unwichtiger.
+
+
+Gegen die Informationswelt von heute wirkt die des vergangenen Jahrhunderts bereits mittelalterlich. Allerdings: Wer mit ihr klar kommen will, muss umlernen und Angewohnheiten aus der Zeit der Massenmedien ablegen.
+
+
+Im Kontext: Zukunft des Journalismus: Wer soll das bezahlen?
+
+
+Mitwirkende: Lorenz Lorenz&#45;Meyer, Jimmy Wales, Jochen Wegner, Jane Hamsher, Tom Rosenstiel, Mercedes Bunz,; Autor: Mario Sixtus; Mitarbeit: Tobias Moorstedt; Kamera: Iris Jungels, Nicholas Strini; Schnitt: Dominic Kennedy, Stefan Jaehner; Sprecher: Petra Bröcker, Nadine Schaub, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Tradmark, Miguel Herrero, Serphonic, Olivier Rouits, Les Garçons Joufflus; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-10-16T04:00:04+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/016/ELR_016.mp3" length="9532064" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Zukunft des Journalismus: Wer soll das bezahlen?</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/170/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/170/</guid>
+      <description>Aus der Welt der Massenmedien ist eine der Medienmassen geworden. Das Internet hat die ökonomische Basis von Medien und Journalismus auf den Kopf gestellt: Nicht mehr Berichterstattung ist ein rares Gut, sondern die Aufmerksamkeit des Publikums. Das hat schwerwiegende wirtschaftliche Folgen: wegbrechende Auflagen und Anzeigenerlöse können Verlage nur zu einem geringen Teil durch Online&#45;Werbung kompensieren.
+
+
+Wie also soll Journalismus künftig finanziert werden? Die Verleger fühlen sich von Google enteignet und verlangen staatliches Eingreifen, einige denken laut über Bezahlinhalte nach, und in den USA übernehmen bereits gemeinnützige Stiftungen die Finanzierung investigativer Reportagen. Derweil verdienen journalistische Einzelkämpfer, wie beispielsweise Technologie&#45;Blogger, gutes Geld. Was machen sie anders? Und: Wäre es denkbar, dass künftig Leser selbst Journalisten für ihre Reportagen bezahlen?
+
+
+Im Kontext: Zukunft des Journalismus: Die Selbermacher
+
+
+Mitwirkende: Tom Rosenstiel, Hans&#45;Jürgen Jakobs, Lorenz Lorenz&#45;Meyer, Jochen Wegner, Sascha Pallenberg, Richard Tofel, Mercedes Bunz, Christopher Allbritton; Autor: Mario Sixtus; Mitarbeit: Tobias Moorstedt; Kamera: Iris Jungels, Nicholas Strini; Schnitt: Dominic Kennedy, Stefan Jaehner; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Theresa Schwär; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Tunguska Electronic Music Society, DJ Answer, Ehma, Josta, Real Rice; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-10-02T04:00:05+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/015/ELR_015.mp3" length="11572256" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Web&#45;Wahlkampf: An der Graswurzel</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/166/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/166/</guid>
+      <description>Eigentlich sind Web&#45;Communities für Nutzer viel interessanter als für Institutionen: Netzwerke wie Flickr, Twitter oder Facebook sind &#45; wie man in Amerika sagt &#45; for the people, by the people.
+
+
+In der zweiten Folge über den Web&#45;Wahlkampf widmet sich der Elektrische Reporter der Internet&#45;Basis, also den Menschen, die die neuen Medien nutzen, um mitzureden und sich zu engagieren. Er sucht nach kreativem und erfolgreichem &#8220;Voter Generated Content&#8221;. Er spricht mit Aktivisten, die sich über Twitter und Blogs vernetzen und verrät, wen das Web wählen würde.
+
+
+Im Kontext: Web&#45;Wahlkampf: im Maschinenraum, Web&#45;Kampagne: Wähler&#45;generierter Wahlkampf
+
+
+Mitwirkende: Frank Mai, Markus Berger&#45;de&#45;León, Julia Seeliger, Klas Roggenkamp, Jan Schmidt, Frank Bischof; Autoren: Mario Sixtus, Tobias Moorstedt; Kamera: Iris Jungels, Boris Kantzow, Andreas Proß; Schnitt: Dominic Kennedy, Arne Bönninghoff; Sprecherin: Petra Bröcker; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Dominic Kennedy; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Ehma, Walter Well, Serphonic, Miguell Herrero; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-09-18T04:00:07+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/014/ELR_014.mp3" length="10435616" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Web&#45;Wahlkampf: Im Maschinenraum</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/160/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/160/</guid>
+      <description>Schon Wochen vor der Wahl haben Netzgemeinde und Medien ihr Urteil gefällt: Der Online&#45;Wahlkampf der deutschen Parteien ist langweilig, kleinmütig oder einfach nur peinlich. So heißt es unisono von Bild bis FAZ. Ist das so? Und wenn ja, warum?
+
+
+Der Elektrische Reporter steigt hinab in die digitalen Maschinenräume der Kampagnen. Er trifft alt eingesessene Demoskopen, junge Berater, die vom Obama&#45;Wahlkampf gelernt haben, und &#8220;Social Media Writer&#8221;, die dabei sind, in sozialen Netzwerken wie Facebook eine neue Art der PR zu formen. Die über allem schwebende Frage lautet: Warum ist der Wahlkampf eigentlich wie er ist?
+
+
+Im Kontext: Web&#45;Wahlkampf: an der Graswurzel, Web&#45;Kampagne: Wähler&#45;generierter Wahlkampf
+
+
+Mitwirkende: Steffi Lemke, Christoph Bieber, Susanne Fitkau, Martin Dohmen, Fabian Braun, Malte Steckmeister; Autoren: Tobias Moorstedt, Mario Sixtus; Kamera: Iris Jungels, Boris Kantzow, Andreas Proß; Schnitt: Boris Kantzow, Arne Bönninghoff; Sprecherin: Petra Bröcker; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Bildredaktion: Iris Jungels, Dominic Kennedy; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Matthew Tyas, Realaze, Eraplee Noisewall Orchestra, Strange Zero, BrunoXe, Moonove; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-09-04T04:00:52+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/013/ELR_013.mp3" length="10108792" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Netzneutralität: Alle Bits sind gleich?</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/124/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/124/</guid>
+      <description>Ob E&#45;Mail, Webseite oder Dateidownload &#45; im Netz reist jedes Datenpäckchen gleich schnell. Egal, was der Inhalt ist – Knotenpunkte und Provider leiten alles unbesehen weiter. Diese Gleichbehandlung gehört zu den Grundprinzipien des Netzes. Befürworter der so genannten Netzneutralität möchten diese deshalb am liebsten gesetzlich festschreiben. Einige Telekommunikationsunternehmen pflegen dagegen eine gänzlich andere Weltanschauung: Sie würden am liebsten Expresschneisen durch das Netz schlagen, auf denen bestimmte Daten für ihre Kunden Vorfahrt hätten. „Daten&#45;Diskriminierung“ ist das in den Augen der Neutralitätsverfechter. Sie befürchten, dass plötzlich die Provider massiv mitbestimmten könnten, wie die Verbraucher das Internet benutzen. Der Zugriff auf Websites der Konkurrenz könnte künstlich verlangsamt werden, unliebsame Anwendungen wie Internet&#45;Telefonie oder Filesharing gleich ganz gesperrt werden. Ein weiteres Argument: Solche Hürden wären nicht nur lästig für die normalen Nutzer, sondern würden auch die Weiterentwicklung des Internets insgesamt hemmen. Der Elektrische Reporter über das Gezerre um die Neutralität des Netzes.
+
+
+Mitwirkende: Jérémie Zimmermann, Lawrence Lessig, Rüdiger Zarnekow, Rainer Fischbach, Ralf Bendrath; Autoren: Mario Sixtus, Fiete Stegers; Kamera: Iris Jungels; Schnitt: Andreas Simon, Anne Lucht; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Compositing: Dominic Kennedy; Bildredaktion: Iris Jungels, Dominic Kennedy; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Real Rice, Xcyril, Gerador Zero, Matthew Tyas, Realaze; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa
+
+
+Das Team des Elektrischen Reporters verabschiedet sich vorläufig von Ihnen. Neue Folgen gibt es hier und anderswo voraussichtlich wieder ab Mitte August. Tragen Sie sich einfach rechts in die Mailing&#45;Liste ein oder schnappen sie sich einen der RSS&#45;Feeds, um auf dem Laufenden zu bleiben. Außerdem planen wir ein kleines Überbrückungsprogramm für die Sommermonate. Es lohnt sich also, auch in der Zwischenzeit immer mal wieder vorbeizuschauen.</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-05-01T01:00:36+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/012/ELR_012.mp3" length="10240928" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Mobile Communities: Unterwegs und unter Freunden</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/119/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/119/</guid>
+      <description>Wo bin ich und wer ist in meiner Nähe? Besitzer moderner Handtelefone verfügen zunehmend über einen sechsten Sinn, der viel mehr ermöglicht, als nur die Bestimmung des exakten geografischen Standortes: Mobile Geräte werden durch ortsbezogene Dienste wie Plazes, Aka&#45;aki oder Google&#45;Latitude zu einem Echolot für Beziehungen und zu einem Taschenradar für die Menschen um uns herum. Ab jetzt haben wir unsere Freunde immer dabei, können sie orten und mit ihnen unsere Erfahrungen an verschiedenen Orten teilen.
+
+
+Der Elektrische Reporter untersucht die Möglich&#45; und und Unmöglichkeiten des mobilen Internet und fragt, wie sich unser Leben durch dieses neue Bewusstsein für den Ort verändern könnte.
+
+
+Mitwirkende: Felix Petersen, Stefanie Hoffmann, Florian Hadler, Matthew Honan, Tony Jebara, Adam Greenfield; Autoren: Mario Sixtus, Julius Endert; Mitarbeit: Janko Röttgers; Kamera: Iris Jungels, Eddie Codel; Schnitt: Boris Kantzow, Arne Bönninghoff; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Compositing: Dominic Kennedy; Bildredaktion: Iris Jungels; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Tryad, Matthew Tyas, Realaze; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-04-17T00:39:28+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/011/ELR_011.mp3" length="9201056" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Nerds: Weltretter mit Hornbrillen?</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/115/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/115/</guid>
+      <description>Nerds sind das wandelnde Klischee des gesellschaftlichen Außenseiters: schüchtern und unattraktiv verbringen sie die meiste Zeit vor ihrem Computer und pflegen soziale Kontakte allerhöchstens über die Tastatur. Doch die vermeintlichen Außenseiter haben der Gesellschaft längst ihren Stempel aufgedrückt. Von der E&#45;Mail&#45;Kultur bis zur Wikipedia: Das digitale Zeitalter ruht auf einem Nerd&#45;gebauten Fundament. Der Elektrische Reporter begibt sich auf die Suche nach der Subkultur der Technophilen &#45; und stellt die Frage, ob wir im Gleichschritt mit der Verbreitung des Internets nicht alle irgendwie zu Nerds werden. 
+
+
+Mitwirkende: Gregor Snelting, Mathias Mertens, Padeluun, Doctor Popular, Jan Manuel Tosses, Tim Pritlove, Jens Ohlig; Autoren: Mario Sixtus, Torsten Kleinz; Mitarbeit: Janko Röttgers; Kamera: Iris Jungels, Eddie Codel, Hendrik Butz; Schnitt: Andreas Simon, Arne Bönninghoff; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Compositing: Dominic Kennedy; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Vulsor, Real Rice, Drown Radio, Subatomicglue; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-04-03T04:00:10+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/010/ELR_010.mp3" length="9198895" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Web&#45;Kampagne: Wähler&#45;generierter Wahlkampf</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/111/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/111/</guid>
+      <description>US&#45;Präsident Obama gilt als der erste Internet&#45;Präsident überhaupt. Denn seine Strategie im Web war ausschlaggebend für den Wahlsieg. Er und sein Team haben die Regeln des Wahlkampfes kurzerhand umgeschrieben und es verstanden, eine Fan&#45;Basis über das Internet aktiv in seinen Wahlkampf einzubinden. Mit Hilfe von Mikro&#45;Spenden und von den Anhängern selbst gedrehten Wahl&#45;Videos wurde Obama schließlich zum mächtigsten Mann der Welt. Der Elektrische Reporter untersucht die Mechanismen des Online&#45;Wahlkampfs und zeigt auf, welche Lehren die Wahlkämpfer im bundesdeutschen Superwahljahr 2009 aus der Obama&#45;Kampagne ziehen können.
+
+Im Kontext: Vollständige Interviews mit Micah Sifry und Joi Ito, sowie: Web&#45;Wahlkampf: im Maschinenraum, Web&#45;Wahlkampf: an der Graswurzel
+
+Mitwirkende: Don Tapscott, Micah Sifry, Joi Ito, David Weinberger, Richard Rogers, Tobias Moorstedt; Autoren: Mario Sixtus, Julius Endert; Kamera: Iris Jungels, Andreas Simon; Schnitt: Arne Bönninghoff, Andreas Simon; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Yue, Tr´`d, Silence; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa; Vielen Dank an die DLD&#45;Konferenz.</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-03-20T03:00:42+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/009/ELR_009.mp3" length="10080800" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Vorschlagsysteme: Mit den besten Empfehlungen</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/106/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/106/</guid>
+      <description>Die Urlaubslektüre, die genau den eigenen Geschmack trifft, das Lied, das perfekt zur augenblicklichen Stimmung passt: Können solche persönlichen Tipps von Computerprogrammen kommen? So genannte Empfehlungsmaschinen wollen für Internetnutzer die Hinweise von Freunden und die Beratung durch Fachhändler ersetzen. Bekanntes Beispiel ist das Online&#45;Kaufhaus Amazon. Musik&#45;Websites kommen kaum noch ohne Empfehlungsmaschinen aus. Solche Software beobachtet das Einkaufs&#45; oder Hörverhalten genau und merkt sich die Vorlieben und Abneigungen der Nutzer. Wie funktioniert das? Die Macher der Musikplattformen Last.fm und Pandora erzählen, wie sie jedem ihrer Nutzer das perfekte persönliche Radio erschaffen wollen. 
+
+
+Konsumgüter wie Musik und Bücher sind aber nicht einzigen Anwendungsgebiete für Empfehlungsmaschinen: Wo werden sie noch eingesetzt? Und welche Folgen hat es künftig, wenn Algorithmen Stilberater spielen – für unseren persönlichen Geschmack und unser Konsumverhalten?
+
+
+Mitwirkende: Nick Thomas, Kathrin Passig, Martin Stiksel, Stefan Bauman, Tim Westergren; Autoren: Mario Sixtus, Fiete Stegers; Mitarbeit: Janko Röttgers; Kamera: Iris Jungels, Eddie Codel; Schnitt: Boris Kantzow, Arne Bönninghoff; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Tr´`d, Cyril Pereira, Strange Zero, Realaze, Lego; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-03-06T03:00:46+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/008/ELR_008.mp3" length="9370016" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Kollektives Kino: Und alle drehen mit</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/102/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/102/</guid>
+      <description>Filmemachen ist Diktatur &#45; der Regisseur hat immer das letzte Wort. Wirklich? Was würde wohl passieren, wenn man das Publikum in die Produktion einbeziehen würde? Den sonst zur Passivität verdammten Kinogänger über das Internet auffordern würde, seine eigenen Ideen einzubringen?
+
+
+Matt Hanson und Timo Vuorensola, zwei Regisseure aus Großbritannien und Finnland, wollen genau das mit ihren Projekten &#8220;A Swarm of Angles&#8221; und &#8220;Wreck a Movie&#8221; herausfinden. Unterliegt das kollektive Filmemachen den gleichen Gesetzmäßigkeiten wie die freie, von den Nutzer selbst geschriebene Online&#45;Enzyklopädie Wikipedia? Wie muss man die Produktion unter Einbeziehung einer Online&#45;Community organisieren, damit ein vorzeigbares Ergebnis herauskommt? Diesen Fragen geht der Elektrische Reporter nach.
+
+
+Mitwirkende: Timo Vuorensola, Matt Hanson, Charles Leadbeater, Peter Weibel, Clay Shirky; Autoren: Mario Sixtus, Julius Endert; Kamera: Iris Jungels, Boris Kantzow; Schnitt: Andreas Simon, Arne Bönninghoff; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Gerador Zero, Raphael Badawi, Justin Bidule; Bildmaterial: Medienboard Berlin&#45;Brandenburg, Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-02-20T00:49:39+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/007/ELR_007.mp3" length="9842336" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Neues vom Sport: Daddeln als Karriere</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/98/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/98/</guid>
+      <description>Für E&#45;Sportler sind Computerspiele mehr als nur ein Spaß: Für sie ist das ein zwar elektronischer, aber doch auch richtiger Sport &#45; mit eigenen Regeln, eigener Bundesliga und eigener Olympiade.
+
+
+Allein in Deutschland sind mehrere Hunderttausend Spieler in Vereinen und so genannten Clans organisiert. Doch trotz kommerziellem Erfolg kämpfen die E&#45;Sportler noch um Anerkennung, die ihnen beispielsweise vom Deutschen Olympischen Sportbund verwehrt wird. Der Elektrische Reporter hat sich unter Spielern und Betreuern umgehört. 
+
+
+Mitwirkende: Michael Opree, Niklas Timmermann, Marco Radeck, Nils Johannsen, Frank Pinter, Frank Sliwka, Michael Kurpiers; Autoren: Mario Sixtus, Torsten Kleinz; Kamera: Iris Jungels, Andreas Proß; Schnitt: Andreas Simon, Arne Bönninghoff; Sprecherin: Petra Bröcker; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Subatomicglue, Try´`d, Real Rice, Alexander Blu, Likantropika, Magnetic; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-02-06T01:00:13+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/006/ELR_006.mp3" length="10432160" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Digitaler Aktivismus: aus dem Netz auf die Straße</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/94/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/94/</guid>
+      <description>Das Internet wird zum Raum für politschen Protest: Ob Scientology&#45;Sekte oder die FARC&#45;Rebellen in Kolumbien &#45; schon manch eine mächtige Organisation hat die Wucht von Online&#45;Aktivisten zu spüren bekommen. Aber wie funktioniert politisches Engagement in Digitalien und wie wirkungsvoll ist es?
+
+
+Das Netz bietet für den politisch aktiven Menschen eine Fülle von Kommunikations&#45; und Aktionsmöglichkeiten. Dabei braucht es weder eine Führungsspitze noch Mitgliederlisten, wie das Beispiel der Gruppe &#8220;Anonymous&#8221; und ihr Kampf gegen die Scientology&#45;Sekte zeigt. Protest im Web entsteht spontan, ist scheinbar chaotisch &#45; und kann dennoch wirkungsvoll sein. 
+
+
+Fest steht: Die digitalen Medien verändern das politische Leben. Politik wird entkoppelt von den Institutionen und kehrt zurück in den Alltag der Bürger. Und wenn dort ausreichend Wut über die herrschenden Umstände vorhanden ist, müssen die Mächtigen mit Attacken aus völlig unerwarteten Richtungen rechnen.
+
+
+Im Kontext: Vollständiges Interview mit Patrick Meier
+
+
+Mitwirkende: Patrick Meier, Richard Rogers, Henri Beunders, Andreas Jungherr, Christoph Bautz; Autoren: Mario Sixtus, Julius Endert; Kamera: Iris Jungels, Stephan Fritsch, Katja Gramke; Schnitt: Andreas Simon, Stefan Jähner; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Matthew Tyas, Subatomicglue, Cyril Pereira, Xcyril, Lego; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2009 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2009-01-23T04:00:49+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/005/ELR_005.mp3" length="9760928" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Urheber 2.0: Was tun, wenn keiner kauft?</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/88/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/88/</guid>
+      <description>Kulturgüter wie Musik und Film sind im Internet jederzeit auf Abruf verfügbar. Nur sind viele Konsumenten nicht mehr bereit, dafür etwas zu zahlen. Eine bittere Pille für die Musikindustrie und ähnliche Branchen, die nur schwerfällig reagieren.
+
+
+Zeit für ganz neue Wege? Einige Stimmen fordern, Tauschbörsen zu legalisieren und die Urheber über eine &#8220;Kulturflatrate&#8221; zu bezahlen &#45; doch es gibt auch zahlreiche Bedenken.
+
+
+Manche Autoren und Künstler stellen ihre Werke Fans sogar gratis zur Verfügung &#45; und setzen darauf, auf  andere Weisen Geld zu verdienen. Das funktioniert zum Beispiel über das Lizenzsystem &#8220;Creative Commons&#8221;. Kritiker meinen: Das ist nur etwas für Weltverbesserer. Aber vielleicht braucht es mehr solcher Ideen, um die Welt zu verbessern?
+
+Im Kontext: Urheber 2.0: Jeder Nutzer ein Pirat? und: vollständige Interviews mit Thomas Hoeren, Josh Wattles und Danny O&#8217;Brien.
+
+Mitwirkende: Markus Beckedahl, Sebastian Redenz, Dieter Gorny, Martin Juhls, Danny O&#8217;Brian, Josh Wattles, Thomas Hoeren, Christine Ehlers; Autoren: Mario Sixtus, Fiete Stegers; Mitarbeit: Janko Röttgers; Kamera: Iris Jungels, Eddie Codel, Matthew Williams; Schnitt: Boris Kantzow, Andreas Simon; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: DJ Side, Vulsor, Nest, Realaze, Le Mépris, Xcyril; Bildmaterial: Internet Archive, Prelinger Archive, People Like Us; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2008 ZDF, (cc) by&#45;nc&#45;sa
+
+
+Neue Folgen des Elektrischen Reporters gibt es hier und anderswo wieder ab dem 23.01.2009. Das gesamte Team wünscht ihnen wunderschöne Tage; bleiben Sie uns gewogen und schalten Sie auch das nächste Jahr wieder ein!</description>
+      <dc:subject></dc:subject>
+      <dc:date>2008-12-19T05:30:28+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/004/ELR_004.mp3" length="10165664" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Urheber 2.0: Jeder Nutzer ein Pirat?</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/87/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/87/</guid>
+      <description>In jedem Kinderzimmer steht ein Filmkopierwerk, auf jedem Schreibtisch eine Plattenpresse, und das Internet ist ein riesiger Piratenmarkt für kostbare Kreativ&#45;Inhalte. So sieht es die Entertainment&#45;Industrie und versucht mit immer neuen Maßnahmen, Raubkopien zu bekämpfen &#45; bisher wenig erfolgreich.
+
+
+Mit dem Urheberrecht können aber nicht nur Tauschbörsen&#45;Nutzer in Konflikt geraten, sondern auch all jene, die sich im Netz kreativ betätigen: Wenn die Grenzen zwischen öffentlich und privat verschwimmen, wenn Konsumenten selbst Medienproduzenten werden, kann plötzlich das private Karaoke&#45;Video im Web rechtliche Folgen haben.
+
+
+Muss das Urheberrecht endlich im Netz schärfer durchgesetzt werden &#45; oder müssen eher die Gesetze der digitalen Realität angepasst werden? 
+
+
+Im Kontext: Urheber 2.0: Was tun, wenn keiner kauft? und: vollständige Interviews mit Thomas Hoeren, Josh Wattles und Danny O&#8217;Brien.
+
+Mitwirkende: Johannes Kreidler, Jürgen Brandhorst, Markus Beckedahl, Christine Ehlers, Dieter Gorny, Günter Krings, Thomas Hoeren, Josh Wattles, Danny O&#8217;Brian; Autoren: Mario Sixtus, Fiete Stegers; Mitarbeit: Janko Röttgers, Julius Endert; Kamera: Iris Jungels, Eddie Codel, Matthew Williams; Schnitt: Boris Kantzow, Andreas Simon; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Antony Raijekov, Xcyril, Real Rice, Matthew Tyas; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2008 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2008-12-12T05:30:03+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/003/ELR_003.mp3" length="10129184" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Demoszene: Hollywood in 64 Kilobyte</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/85/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/85/</guid>
+      <description>Die Demoszene ist eine besondere Spielart digitaler Kunst. Über Monate arbeiten Programmierer, Musiker und Designer über Grenzen und Kontinente hinweg zusammen an digitalen Filmen, Demos genannt, die zwischen Musikvideos, 3D&#45;Spielen und abstrakten Zukunftsvisionen anzusiedeln sind. Gezeigt werden die Ergebnisse bei gemeinsamen Events, wo Gruppen um die besten Demos konkurrieren. 
+
+
+Die Programmierung der Demos folgt dabei strengen Regeln und sucht immer neue Herausforderungen. Der Elektrische Reporter erklärt, wie Demos entstehen, was die Mitglieder der Demoszene motiviert, Monate harter Arbeit in diese Projekte zu stecken und ob die Demoszene vor dem Aussterben steht, weil die technischen Anforderungen für Neueinsteiger zu hoch sind.
+
+
+Mitwirkende: Lars &#8220;Ghandy&#8221; Sobiraj, Andre &#8220;Ami&#8221; Otto, Martin &#8220;KeyJ&#8221; Fiedler, Jerome Muffat&#45;Meridol, Tobias Heim; Autor: Mario Sixtus; Mitarbeit: Torsten Kleinz, Julius Endert; Kamera: Stephan Fritsch, Mario Sixtus; Schnitt: Boris Kantzow; Sprecher: Petra Bröcker, Torsten Altenhöner; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Realaze, Antony Raijekov; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2008 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2008-12-05T05:00:35+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/002/ELR_002.mp3" length="9678368" type="audio/mpeg" />
+    </item>
+
+    <item>
+      <title>Microblogging: Leben in 140 Zeichen</title>
+      <link>http://www.elektrischer-reporter.de/elr/video/83/</link>
+      <guid>http://www.elektrischer-reporter.de/elr/video/83/</guid>
+      <description>Barack Obama tut es, Mitarbeiter der NASA tun es, ebenso wie SPD&#45;Generalsekretär Hubertus Heil und drei Millionen weitere: Sie alle nutzen den Microblogging&#45;Dienst Twitter, um Bekannte und Unbekannte über Erlebtes und Erdachtes auf dem Laufenden zu halten.
+
+
+Twitter wirkt auf den ersten Blick wie ein unscheinbares Web&#45;Angebot unter vielen, doch die Einschätzungen über Sinn oder Unsinn der Kurzmitteilungs&#45;Plattform könnten unterschiedlicher kaum sein: Kritiker sprechen von einem &#8220;virtuellen Gedankenlokus&#8221; und warnen vor &#8220;Seelen&#45;Striptease&#8221;, während begeisterte Nutzer von einer völlig neuen Form des miteinander Kommunizierens schwärmen. Twitter&#45;Gründer Biz Stone entdeckt in der Welt der Bonsai&#45;Botschaften sogar eine Art &#8220;Soziale Alchemie&#8221;. 
+
+
+Was ist also dran an Twitter und Co.? 
+
+
+Mitwirkende: Biz Stone, Katharina Borchert, Igor Schwarzmann, Jan Schmidt, Cem Basman; Autor: Mario Sixtus; Mitarbeit: Julius Endert; Kamera: Mario Sixtus, Iris Jungels; Schnitt: Boris Kantzow; Sprecher: Petra Bröcker, Frank Thomas; Zeichnungen: Johannes &#8220;Beetlebum&#8221; Kretzschmar; Studio&#45;Konstruktion: Axel Ganz; Titelmusik: Mario Sixtus; Musik: Realaze, Likantropika, Xcyril, Alexander Blu, Cyril Pereira; Bildmaterial: Internet Archive, Prelinger Archive; Redaktion ZDF: Bernhard Fritsch, Peter Wagner; Produktion: Blinkenlichten Produktionen im Auftrag des ZDF in Zusammenarbeit mit Handelsblatt.com; (c) 2008 ZDF, (cc) by&#45;nc&#45;sa</description>
+      <dc:subject></dc:subject>
+      <dc:date>2008-11-27T15:26:07+00:00</dc:date>
+      <author>Mario Sixtus, Blinkenlichten Produktionen</author>
+      <enclosure url="http://www.blinkenfilme.de/elr/001/ELR_001.mp3" length="9546656" type="audio/mpeg" />
+    </item>
+
+    
+    </channel>
+</rss>
